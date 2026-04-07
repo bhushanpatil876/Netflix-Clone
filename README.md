@@ -165,12 +165,4 @@ Contributions are welcome! Here's how you can help:
 
 Please ensure your code follows the existing style and includes comments where necessary.
 
-## License 📜
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
----
-
-**Made with ❤️ by [Bhushan Patil](https://github.com/bhushanpatil876)**
-
-Feel free to reach out with feedback or suggestions!
